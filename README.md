@@ -68,7 +68,8 @@ python -m multimodal.finetune_flava
 ```
   python -m multimodal_ml.embeddings_generation
 ```
-- Training:
+## Step 5: MM explanations
+- Integrated gradient:
 ```
-  python -m multimodal_ml.train_ml_model lr
+  python -m xai.ig_flava model_number
 ```
