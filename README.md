@@ -64,7 +64,7 @@ python -m multimodal.finetune_concat
 python -m multimodal.finetune_flava
 ```
 ## Multimodal ML Model
-- Embeddings generations:
+- Embeddings generation:
 ```
   python -m multimodal_ml.embeddings_generation
 ```
