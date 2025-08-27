@@ -8,3 +8,5 @@ pandas==2.2.2
 hyperopt==0.2.7
 xgboost==3.0.2
 captum==0.7.0
+beautifulsoup4==4.12.3
+opencv-python==4.11.0.86
