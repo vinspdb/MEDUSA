@@ -133,7 +133,7 @@ num_labels = 2  # Binary classification
 test_model = flava_model_for_classification(num_classes=num_labels, pretrained=True, loss_fn=criterion)
 test_model.to(device)
 # Load the state dictionary into the model
-test_model.load_state_dict(torch.load('model_mm/covid_flava'+str(n_model)+'.pth'))
+test_model.load_state_dict(torch.load('multimodal/model_mm/covid_flava'+str(n_model)+'.pth'))
 test_model = test_model.to(device)
 
 test_model.eval()
