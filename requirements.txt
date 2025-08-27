@@ -1,0 +1,9 @@
+scikit-learn==1.5.0
+torch==2.6.0
+transformers==4.48.1
+torchmultimodal-nightly==2024.4.1
+pillow==10.2.0
+accelerate==0.30.1
+pandas==2.2.2
+hyperopt==0.2.7
+xgboost==3.0.2
