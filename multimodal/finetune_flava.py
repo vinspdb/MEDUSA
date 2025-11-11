@@ -140,7 +140,7 @@ def pre_train(model, optimizer, train_dataloader, val_dataloader, scheduler, pat
 if __name__ == '__main__':
     seed = 42
     LEARNING_RATE = 1e-5
-    BATCH = 4
+    BATCH = 16
 
     set_seed(seed)
     with open('../covid_log/covid_train.pkl', 'rb') as f:
