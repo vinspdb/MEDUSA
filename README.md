@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td valign="middle" width="200">
-<img width="200" height="600" alt="muppet2" src="https://github.com/user-attachments/assets/b92f223c-d253-4d60-b6d1-a5c643027ea9" />
+<img width="1024" height="1024" alt="medusa" src="https://github.com/user-attachments/assets/ca2b5b89-3e79-4cf4-b4d9-ae811fc389cd" />
     </td>
     <td align="right" valign="middle">
       <h1>Multimodal Predictive Process Monitoring and its Application to Explainable Clinical Pathways</h1>
