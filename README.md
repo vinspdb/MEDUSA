@@ -14,7 +14,9 @@
 *Vincenzo Pasquadibisceglie, Ivan Donadello, Annalisa Appice, Oswald Lanz, Fabrizio Maria Maggi, Giuseppe Fiameni, Donato Malerba*
 
 
-[*Multimodal Predictive Process Monitoring and its Application to Explainable Clinical Pathways*]
+[*Multimodal Predictive Process Monitoring and its Application to Explainable Clinical Pathways*](https://www.sciencedirect.com/science/article/pii/S0306437926000128)
+
+Please cite our work if you find it useful for your research and work.
 
 ```
 @article{PASQUADIBISCEGLIE2026102698,
@@ -28,7 +30,6 @@ doi = {https://doi.org/10.1016/j.is.2026.102698},
 author = {Vincenzo Pasquadibisceglie and Ivan Donadello and Annalisa Appice and Oswald Lanz and Fabrizio Maria Maggi and Giuseppe Fiameni and Donato Malerba}
 }
 ```
-
 
 # How to Use
 
