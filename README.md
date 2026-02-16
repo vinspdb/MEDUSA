@@ -16,6 +16,20 @@
 
 [*Multimodal Predictive Process Monitoring and its Application to Explainable Clinical Pathways*]
 
+```
+@article{PASQUADIBISCEGLIE2026102698,
+title = {Multimodal predictive process monitoring and its application to explainable clinical pathways},
+journal = {Information Systems},
+volume = {139},
+pages = {102698},
+year = {2026},
+issn = {0306-4379},
+doi = {https://doi.org/10.1016/j.is.2026.102698},
+author = {Vincenzo Pasquadibisceglie and Ivan Donadello and Annalisa Appice and Oswald Lanz and Fabrizio Maria Maggi and Giuseppe Fiameni and Donato Malerba}
+}
+```
+
+
 # How to Use
 
 To run the scripts in this repository, you first need to download the **CDLS dataset** from the following link:  
